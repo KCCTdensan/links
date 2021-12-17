@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "scripts": {
+    "build": "./bin/gen",
+    "dmd": "dmd -O -release ./gen.d -of=./bin/gen"
+  }
+}
