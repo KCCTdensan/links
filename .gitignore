@@ -1,3 +1,4 @@
 dist/
+pub/_redirects
 *.o
 .pnpm-debug.log
