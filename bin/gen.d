@@ -3,6 +3,9 @@ import std;
 immutable targets=[
   "301",
   "302",
+  "303",
+  "307",
+  "308",
 ];
 immutable ext=".txt";
 immutable dir="dist";

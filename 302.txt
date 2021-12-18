@@ -1,1 +1,6 @@
-/twitter  https://twitter.com/intent/user?user_id=444436310
+# 脳死で使え
+
+/twitter      https://twitter.com/intent/user?user_id=444436310
+/hackmd       https://hackmd.io/team/kcctdensan
+/pck          https://hackmd.io/n3dbGXdATNG4eiQnAwbqeg
+/cloudflared  https://hackmd.io/jEv-EmJnSS-4hIFryRAfQA
