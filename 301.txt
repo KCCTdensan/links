@@ -1,4 +1,5 @@
 # 301はあんま使わない方がいいかも
 # 代わりに302を使ってちょ
 
-/ https://d3bu.net
+/             https://d3bu.net
+/index.html   https://d3bu.net

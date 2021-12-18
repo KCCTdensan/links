@@ -2,6 +2,8 @@
 
 リダイレクト集
 
+[参考](https://developers.cloudflare.com/pages/platform/redirects)
+
 ## 対応
 
 - 301

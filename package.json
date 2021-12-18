@@ -1,7 +1,7 @@
 {
   "private": "true",
   "scripts": {
-    "build": "./bin/gen",
+    "build": "mkdir ./dist && cp -r ./pub/* ./dist/ && ./bin/gen",
     "gen": "ldc2 -O -release -L=-s --static ./bin/gen.d --of=./bin/gen"
   }
 }
