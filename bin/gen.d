@@ -1,15 +1,15 @@
 import std;
 
-immutable targets=[
+enum targets=[
   "301",
   "302",
   "303",
   "307",
   "308",
 ];
-immutable ext=".txt";
-immutable dir="dist";
-immutable file="_redirects";
+enum ext=".txt";
+enum dir="dist";
+enum file="_redirects";
 
 void main() {
   if(!dir.exists) dir.mkdir;
