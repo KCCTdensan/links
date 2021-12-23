@@ -1,6 +1,6 @@
 import std;
 
-enum targets=[
+static immutable targets=[
   "301",
   "302",
   "303",
