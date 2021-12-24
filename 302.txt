@@ -4,3 +4,4 @@
 /hackmd       https://hackmd.io/team/kcctdensan
 /pck          https://hackmd.io/n3dbGXdATNG4eiQnAwbqeg
 /cloudflared  https://hackmd.io/jEv-EmJnSS-4hIFryRAfQA
+/windowsinstallbattle https://hackmd.io/hV4yTq54TcC3RnoPiezHPg
